@@ -1,4 +1,4 @@
-Wenn Schwesterlein zur Arbeit muss
+﻿Wenn Schwesterlein zur Arbeit muss
 Schlie?t mich im Zimmer ein
 Hat eine Puppe mir geschenkt
 Dann bin ich nicht allein
@@ -8,5 +8,4 @@ Ihr Schaffensplatz ist gar nicht weit
 Ist gleich im Zimmer nebenan
 Sie kommen und sie gehen
 Und manchmal auch zu zweit
-Die späten Vögel singen
-Und die Schwester schreit
+
